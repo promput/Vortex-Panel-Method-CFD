@@ -1,5 +1,5 @@
 # Vortex-Panel-Method-CFD (protoype)
-In this project I have utilize vortex panel, Thwaites, and Statford Method to create a computational fluid dynamic model over any 2 dimensional airfoil. This project is part of my ME163 aerodynamic project at UC Berkeley. This project is able to find the following.
+In this project I have utilize vortex panel, Thwaites, and Statford Method to create a computational fluid dynamic model over any 2 dimensional airfoil. This project is part of my ME163 aerodynamic project at UC Berkeley. I have code this from scrath, if you have any question or concern regarding the use of it please let me know. This project is able to find the following.
 1. separation points and stagnation points in an arbitrary airfoil.
 2. Cp, Cl, and Cd graph.
 3. numerical stall angle.
