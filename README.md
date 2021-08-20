@@ -3,6 +3,10 @@ In this project I have utilize vortex panel, Thwaites, and Statford Method to cr
 1. separation points and stagnation points in an arbitrary airfoil.
 2. Cp, Cl, and Cd graph.
 3. numerical stall angle.
+![Test Image 1](/figure/f16.png)
+![Test Image 1](/figure/f78.png)
+![Test Image 1](/figure/f912.png)
+
 
 ### To Run
 There are 4 example_project.mat files above that show different functionality of the project.
